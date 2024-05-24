@@ -1,0 +1,7 @@
+{
+    "[javascript]": {
+        "editor.codeActionsOnS": {
+            "sourse.fixAll.estint": "always"
+        }
+    }
+}
